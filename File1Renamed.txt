@@ -6,4 +6,8 @@ change - 2
 
 change - 3
 
+<<<<<<< HEAD
 change -- 4
+=======
+change -> 4
+>>>>>>> ug123
