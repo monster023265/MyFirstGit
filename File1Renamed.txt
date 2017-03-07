@@ -1,8 +1,9 @@
 welcome to git
-Change 1
+Change - 1
 
-change2
+change - 2 
 
 
-change3
-change 4
+change - 3
+
+change - 4
